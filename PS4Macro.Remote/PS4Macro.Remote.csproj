@@ -33,6 +33,9 @@
     <Reference Include="PS4MacroAPI">
       <HintPath>..\..\PS4Macro\PS4Macro\bin\Debug\PS4MacroAPI.dll</HintPath>
     </Reference>
+    <Reference Include="PS4MacroAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+      <HintPath>..\PS4MacroAPI.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Drawing" />
